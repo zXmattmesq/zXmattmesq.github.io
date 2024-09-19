@@ -1,8 +1,7 @@
-title: "Matt Viana's Portfolio"
-email: "mmv5513@psu.edu"
-description: "A curated space of Matt Viana's Projects, Organizations, and Work Experience"
+title: "Matheus Mesquita Viana's Portfolio"
+email: mmv5513@psu.edu
+description: "Matheus Mesquita Viana \n AI Reasearch Assistant"
+#baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://zXmattmesq.github.io" 
 theme: minima
 markdown: kramdown
-plugins:
-  - jekyll-feed
