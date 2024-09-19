@@ -1,7 +1,7 @@
 title: "Matheus Mesquita Viana's Portfolio"
 email: mmv5513@psu.edu
 description: "Matheus Mesquita Viana \n AI Reasearch Assistant"
-#baseurl: "" # The subpath of your site, e.g., /blog
+baseurl: "" 
 url: "https://zXmattmesq.github.io" 
 theme: minima
 markdown: kramdown
