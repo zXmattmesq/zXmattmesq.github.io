@@ -36,6 +36,5 @@ I'm **Matheus Mesquita Viana**, a Bachelor of Science in Applied Data Science wi
   - Introduction to TensorFlow (March 2024)
   - AWS Cloud Associate (In progress)
   - Tableau, Hadoop
-- **Tools**: Git, Docker, AWS, R, MATLAB
 
 [Back to Home](index.md)
