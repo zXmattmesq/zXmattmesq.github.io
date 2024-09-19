@@ -33,16 +33,14 @@ body, html {
 
 /* Sidebar styling */
 .sidebar {
-    background-color: #084102;
+    background-color: #4e0d1d; 
     width: 250px;
     padding: 20px;
-    color: #ecf0f1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    color: #ffffff; 
     position: fixed;
     height: 100%;
 }
+
 
 .profile {
     text-align: center;
@@ -91,7 +89,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffffff;
+    color: #da8626;
 }
 
 /* Main content styling */
