@@ -4,7 +4,7 @@ title: "Research Assistant: Pinterest Image Scraping Spider"
 date: 2024-05-15
 ---
 
-# Research Assistant: Pinterest Image Scraping Spider
+# [Research Assistant: Pinterest Image Scraping Spider](https://github.com/zXmattmesq/Pinterest-Image-Downloading-Spider-)
 
 **May 2024**
 
@@ -13,5 +13,4 @@ date: 2024-05-15
 - Integrated a system to validate and test a list of proxies, saving only the formatted working ones for consistent scraping.
 - Automated the process by reading search terms from a text file and iterating through them to download images and comments.
 
-[Back to Projects](../projects.md)
 

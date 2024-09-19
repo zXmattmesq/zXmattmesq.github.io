@@ -4,7 +4,7 @@ title: "GitHub Portfolio Website"
 date: 2024-09-01
 ---
 
-# GitHub Portfolio Website
+# [GitHub Portfolio Website](https://zxmattmesq.github.io/)
 
 **September 2024**
 
@@ -13,4 +13,3 @@ date: 2024-09-01
 - Utilized HTML, CSS, and Markdown for content and design.
 - Managed version control and deployment using Git.
 
-[Back to Projects](../projects.md)

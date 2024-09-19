@@ -4,7 +4,7 @@ title: "Developer: Python Internship Application Automation"
 date: 2023-09-01
 ---
 
-# Developer: Python Internship Application Automation
+# [Developer: Python Internship Application Automation](https://github.com/zXmattmesq/Internship_Web_Scraping_Program)
 
 **September 2023**
 
@@ -12,6 +12,5 @@ date: 2023-09-01
 - Built a web scraper using Selenium to extract relevant data, including links and text, from various internship websites.
 - Demonstrated proficiency in Python through effective use of automation and web scraping techniques.
 
-[Back to Projects](../projects.md)
 
 

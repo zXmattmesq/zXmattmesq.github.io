@@ -4,7 +4,7 @@ title: "Software Developer: PSU Java Scheduler Program"
 date: 2023-12-15
 ---
 
-# Software Developer: PSU Java Scheduler Program
+# [Software Developer: PSU Java Scheduler Program](https://github.com/zXmattmesq/Java-Scheduler-Program)
 
 **October – December 2023**
 
@@ -13,4 +13,3 @@ date: 2023-12-15
 - Created a GUI to interact with the scheduling system.
 - Employed object-oriented programming principles with multiple classes and files.
 
-[Back to Projects](../projects.md)

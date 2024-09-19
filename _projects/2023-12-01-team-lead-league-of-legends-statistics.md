@@ -4,7 +4,7 @@ title: "Team Lead: Analysis of League of Legends Win Rate Statistics"
 date: 2023-12-01
 ---
 
-# Team Lead: PSU Analysis of League of Legends Win Rate Statistics
+# [Team Lead: PSU Analysis of League of Legends Win Rate Statistics](https://github.com/zXmattmesq/Analysis-of-League-of-Legends-Win-Rate-Statistics)
 
 **December 2023**
 
@@ -13,4 +13,3 @@ date: 2023-12-01
 - Identified the highest universal indicators for victory.
 - Authored a detailed R Markdown report documenting the results.
 
-[Back to Projects](../projects.md)

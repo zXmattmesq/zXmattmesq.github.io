@@ -4,7 +4,7 @@ title: "Data Analyst: Correlation of Wages and Consumer Price Index"
 date: 2023-12-20
 ---
 
-# Data Analyst: PSU Correlation of Wages and Consumer Price Index
+# [Data Analyst: PSU Correlation of Wages and Consumer Price Index](https://github.com/zXmattmesq/Correlation-of-wages-in-different-education-levels-and-Consumer-Price-Index-from-2000-to-2022)
 
 **November – December 2023**
 
@@ -13,5 +13,4 @@ date: 2023-12-20
 - Applied statistical models to derive conclusions based on the analysis.
 - Produced an R Markdown file to facilitate interaction with the analysis.
 
-[Back to Projects](../projects.md)
 
