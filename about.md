@@ -31,10 +31,17 @@ I'm **Matheus Mesquita Viana**, a Bachelor of Science in Applied Data Science wi
 ## Skills
 
 - **Programming Languages**: Python, SQL, R, Java
+- **Skills**: 
+- FERPA
+- Tableau
+- Hadoop
+
 - **Certifications**:
-  - Custom and Distributed Training with TensorFlow (June 2024)
-  - Introduction to TensorFlow (March 2024)
-  - AWS Cloud Associate (In progress)
-  - Tableau, Hadoop
+	- Custom and Distributed Training with TensorFlow (June 21st, 2024) DeepLearning.AI
+	- Introduction - TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (March 7th, 2024) DeepLearning.AI
+	- Convolutional Neural Networks in TensorFlow (March 7th, 2024) DeepLearning.AI
+	- Natural Language Processing in TensorFlow (March 7, 2024) DeepLearning.AI
+	- Sequences, Time Series and Prediction (March 7th, 2024) DeepLearning.AI
+  - J.P. Morgan Software Engineering Virtual Experience on Forage - September 2023
 
 [Back to Home](index.md)

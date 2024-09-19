@@ -8,6 +8,7 @@
 </head>
 <body>
     <div class="wrapper">
+        <!-- Sidebar -->
         <aside class="sidebar">
             <div class="profile">
                 <img src="/assets/images/myface.jpeg" alt="Profile Image" class="profile-img">
@@ -25,8 +26,12 @@
                 </ul>
             </nav>
         </aside>
+
+        <!-- Main content area -->
         <main class="content">
-            {{ content }}
+            <div class="content-wrapper">
+                {{ content }}
+            </div>
         </main>
     </div>
 </body>
