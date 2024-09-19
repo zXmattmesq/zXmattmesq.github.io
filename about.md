@@ -9,7 +9,7 @@ I'm **Matheus Mesquita Viana**, a Senior Data Science major with a minor in Comp
 
 I chose a data science because I wanted to work with machine learning systems to improve public transit. As a 22-year-old who, very recently, had no experience driving, the challenges of public transit and urban mobility are very personal to me.
 
-For me, data science is a tool to map and improve the real world. As a prospective PhD student, I’ve spent countless hours researching professors at various universities, but I often feel discouraged by articles with titles like "Neural Latent Geometry Search: Product Manifold Inference via Gromov-Hausdorff-Informed Bayesian Optimization." While I appreciate the depth of such work, my passion lies in making a tangible impact on people’s lives. Any algorithmic optimizations or contributions I make in my career should be in service of improving real-world outcomes, rather than data science for its own sake.
+For me, data science is a tool to map and improve the real world. My passion lies in making a tangible impact on people’s lives. Any algorithmic optimizations or contributions I make in my career should be in service of improving real-world outcomes, rather than data science for its own sake.
 
 
 ## Education
