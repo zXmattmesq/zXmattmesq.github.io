@@ -4,7 +4,7 @@ title: "Penn State AI Advisor: Hack PSU Team Lead"
 date: 2024-03-01
 ---
 
-# Penn State AI Advisor: Hack PSU Team Lead
+# Hack PSU Team Lead: Penn State AI Advisor
 
 **March 2024**
 
