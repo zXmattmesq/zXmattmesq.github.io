@@ -111,5 +111,6 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #ffae42; /* Optional: changes color when hovering */
 }
+

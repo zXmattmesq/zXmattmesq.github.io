@@ -4,7 +4,7 @@ title: About Me
 ---
 
 # About Me
-<br><br><br>
+<br><br>
 I'm **Matheus Mesquita Viana**, a Senior Data Science major with a minor in Computer Science at [The Pennsylvania State University](https://ist.psu.edu/). I have a passion for machine learning, and my goal is to focus on its applications.
 <br><br>
 I chose data science because I wanted to work with machine learning systems to improve public transit. As a 22-year-old who, very recently, had no experience driving, the challenges of public transit and urban mobility are very personal to me.
